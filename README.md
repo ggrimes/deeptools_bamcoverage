@@ -1,2 +1,2 @@
 # deeptools_bamcoverage
-deeptools_bamcoverag
+deeptools_bamcoverage
